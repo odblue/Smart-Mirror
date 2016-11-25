@@ -21,7 +21,7 @@ ui_locale = '' # e.g. 'fr_FR' fro French, '' as default
 time_format = 12 # 12 or 24
 date_format = "%b %d, %Y" # check python doc for strftime() for options
 news_country_code = 'us'
-weather_api'<https://api.darksky.net/forecast/0983a5e430f47cde37d2d3c12086e2cb/37.8267,-122.4233>' # create account at https://darksky.net/dev/
+weather_api'<83c4f903da34ac9c15337f27a24c97aa>' # create account at https://darksky.net/dev/
 weather_lang = 'en' # see https://darksky.net/dev/docs/forecast for full list of language parameters values
 weather_unit = 'us' # see https://darksky.net/dev/docs/forecast for full list of unit parameters values
 latitude = None # Set this if IP location lookup does not work for you (must be a string)
